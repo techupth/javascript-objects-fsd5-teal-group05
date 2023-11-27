@@ -6,7 +6,7 @@ const foodOrder = Object.freeze({
     address: "Bangkok",
     paymentType: "Cash",
     totalPrice: 4500,
-    restaurentName: "MK"
+    restaurantName: "MK"
 });
 
 foodOrder.totalPrice = 5000;
